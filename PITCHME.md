@@ -2,4 +2,11 @@
 ![0](/img/TeamTerminator.JPG)
 #VSLIDE
 ![1](/Week1/200_helpful/slide1.jpeg)
-#HSLIDE?image=/Week1/200_helpful/slide2.jpeg
+#HSLIDE
+![2](/Week1/200_helpful/slide2.jpeg)
+#HSLIDE
+![3](/Week1/200_helpful/slide3.jpeg)
+#HSLIDE
+![4](/Week1/200_helpful/slide4.jpeg)
+#HSLIDE
+![5](/Week1/200_helpful/slide5.jpeg)
