@@ -25,7 +25,7 @@ For best viewing experience press **F** key to go fullscreen.
 
 #VSLIDE
 <!-- .slide: data-background-transition="none" -->
-![0](image=Week1/200_helpful/slide1.jpeg)
+![0](image=https://github.com/ThinkBigAnalytics/Bootcamp_Dec16_Utah/tree/master/Week1/200_helpful/slide1.jpeg)
 #VSLIDE
 <!-- .slide: data-background-transition="none" -->
 ![1](image=Week1/200_helpful/slide2.jpeg)
