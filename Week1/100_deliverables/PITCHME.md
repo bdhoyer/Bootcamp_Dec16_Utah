@@ -32,6 +32,9 @@ For best viewing experience press **F** key to go fullscreen.
 #VSLIDE
 <!-- .slide: data-background-transition="none" -->
 ![4](image=Week1/200_helpful/slide5.jpeg)
+#VSLIDE
+<!-- .slide: data-background-transition="none" -->
+![5](image=Week1/200_helpful/assets/slide1.jpeg)
 
 
 
