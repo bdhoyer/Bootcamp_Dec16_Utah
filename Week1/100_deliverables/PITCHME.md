@@ -1,20 +1,15 @@
-#HSLIDE
-<!-- .slide: data-autoslide="10000" -->
+# Flux 
 
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
-
-#### Get the word out
-<br>
-<span style="color:gray">Markdown Presentations For Developers</span>
-<br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab and Bitbucket</span>
+An application architecture for React
 
 #HSLIDE
 
-#VSLIDE
+### Flux Design
 
-`$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
+- Dispatcher: Manages Data Flow
+- Stores: Handle State & Logic
+- Views: Render Data via React
 
-#HSLIDE?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+#HSLIDE
+
+![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
