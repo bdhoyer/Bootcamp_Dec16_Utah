@@ -3,7 +3,7 @@
 _test
 ======
 * added a test folder, PEA
-* [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/ThinkBigAnalytics/Bootcamp_Dec16_Utah/master/Week1/100_deliverables?grs=github)
+* [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/ThinkBigAnalytics/Bootcamp_Dec16_Utah/tree/master/Week1/100_deliverables?grs=github)
 
 ## helpful links
  * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
