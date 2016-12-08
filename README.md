@@ -1,4 +1,5 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/ThinkBigAnalytics/Bootcamp_Dec16_Utah) 
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/ThinkBigAnalytics/Bootcamp_Dec16_Utah/master?grs=github)
+ 
 # Bootcamp_Dec16_Utah
 
 
