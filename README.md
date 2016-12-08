@@ -18,3 +18,8 @@ Two teams were formed:
 ![](img/TeamParkCityRollers.JPG)
 
 * Team Park City Rollers
+ _(Names for appearance from left to right)_
+  * Benjamin Hoyer
+  * Asif Mughal
+  * Gandhi Manalu
+  * Paulo Rios
